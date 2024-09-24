@@ -1,0 +1,14 @@
+c:\Users\alexander.swedlund\New folder\fight\fight\bin\Debug\net8.0\fight.exe
+c:\Users\alexander.swedlund\New folder\fight\fight\bin\Debug\net8.0\fight.deps.json
+c:\Users\alexander.swedlund\New folder\fight\fight\bin\Debug\net8.0\fight.runtimeconfig.json
+c:\Users\alexander.swedlund\New folder\fight\fight\bin\Debug\net8.0\fight.dll
+c:\Users\alexander.swedlund\New folder\fight\fight\bin\Debug\net8.0\fight.pdb
+c:\Users\alexander.swedlund\New folder\fight\fight\obj\Debug\net8.0\fight.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\alexander.swedlund\New folder\fight\fight\obj\Debug\net8.0\fight.AssemblyInfoInputs.cache
+c:\Users\alexander.swedlund\New folder\fight\fight\obj\Debug\net8.0\fight.AssemblyInfo.cs
+c:\Users\alexander.swedlund\New folder\fight\fight\obj\Debug\net8.0\fight.csproj.CoreCompileInputs.cache
+c:\Users\alexander.swedlund\New folder\fight\fight\obj\Debug\net8.0\fight.dll
+c:\Users\alexander.swedlund\New folder\fight\fight\obj\Debug\net8.0\refint\fight.dll
+c:\Users\alexander.swedlund\New folder\fight\fight\obj\Debug\net8.0\fight.pdb
+c:\Users\alexander.swedlund\New folder\fight\fight\obj\Debug\net8.0\fight.genruntimeconfig.cache
+c:\Users\alexander.swedlund\New folder\fight\fight\obj\Debug\net8.0\ref\fight.dll
